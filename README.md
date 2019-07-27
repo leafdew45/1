@@ -1,2 +1,1 @@
-# 1
-file menggunakan bootstap
+tidak ada file css tambahan , file ini menggunakan bootstrap CDN
